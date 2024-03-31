@@ -1,7 +1,8 @@
 # instapawn_47331
 
-Welcome to your new Crowdbotics app.
-
+Welcome to Insta App 
+This App is still in Development and was made by Nathaniel Mina and the help of Crowdbotics, AN AI APP developer.
+This is a partenership with  two othersd that have not yet been brought on board here Yet.
 ## What is Crowdbotics?
 
 Crowdbotics is an easy way to build software applications of all kinds. You can build production, high-caliber software applications in minutes, rather than weeks or months, even if you're not a software developer.
